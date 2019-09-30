@@ -1,0 +1,11 @@
+[
+  {
+    "started": "some date",
+    "finished": "some date",
+    "projects": [
+      { "name": "aerogear-js-sdk", "version": "2.6.4-dev.1017.f64036e.0" }
+    ],
+    "status": "completed",
+    "result": "failed"
+  }
+]
